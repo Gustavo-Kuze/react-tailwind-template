@@ -1,4 +1,4 @@
-# Tailwind/React CSS Template
+# Tailwind/React Template
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/81727ed8-0b52-4733-8e65-4af7ecba803b/deploy-status)](https://app.netlify.com/sites/gustavokuze/deploys)
 
