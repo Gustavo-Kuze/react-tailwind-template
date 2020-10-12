@@ -63,7 +63,7 @@ const Home = () => {
             onClick={toggleChat}
             isResponsive={false}
             secondary={isDarkTheme()}
-            noShadow={!isDarkTheme()}
+            noShadow
             className="mt-5"
             color={
               !isDarkTheme() &&
@@ -71,7 +71,7 @@ const Home = () => {
               bg-${theme.classes.secondaryStrong}
               hover:bg-${theme.classes.secondary}
               text-${theme.classes.whitierPrimary}
-              hover:text-${theme.classes.primaryStrong}
+              hover:text-${theme.classes.whiteyPrimary}
               mt-5
               `
             }

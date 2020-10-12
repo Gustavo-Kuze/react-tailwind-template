@@ -90,7 +90,7 @@ const About = () => {
               href="https://github.com/Gustavo-Kuze/react-tailwind-template"
               target="_blank"
               rel="noopener noreferer"
-              className="text-yellow-400"
+              className={`text-${theme.classes.secondaryStrong}`}
             >
               <strong>template</strong>
             </a>{' '}

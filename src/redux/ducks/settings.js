@@ -8,8 +8,8 @@ export const types = {
 
 const INITIAL_STATE = {
   theme: {
-    ...theme.dark,
-    themeName: 'dark',
+    ...theme.light,
+    themeName: 'light',
   },
 };
 

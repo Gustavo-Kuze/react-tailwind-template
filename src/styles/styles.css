@@ -4,9 +4,9 @@
 
 body {
     min-height: 200vh;
-    background: #9D50BB;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #6E48AA, #9D50BB);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #6E48AA, #9D50BB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ffbf4f;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right,#ff8e2f, #ffbf4f);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right,#ff8e2f, #ffbf4f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 p, h1, h2, h3, h4, h5, h6, span, strong, button, a {

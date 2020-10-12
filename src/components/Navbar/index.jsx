@@ -120,7 +120,7 @@ const Navbar = () => {
             onClick={() => {
               dispatch({
                 type: themeTypes.SET_THEME,
-                payload: theme.themeName === 'dark' ? 'default' : 'dark',
+                payload: theme.themeName === 'dark' ? 'light' : 'dark',
               });
             }}
             className="focus:outline-none"

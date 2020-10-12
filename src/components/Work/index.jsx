@@ -83,7 +83,12 @@ const Work = ({
             >
               {title}
             </p>
-            <span className="bg-purple-500 px-1 ml-3 rounded text-sm text-white">
+            <span
+              className={`
+              bg-${theme.classes.primary}
+              px-1 ml-3 rounded text-sm text-white
+            `}
+            >
               {year}
             </span>
           </div>
