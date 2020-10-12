@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/81727ed8-0b52-4733-8e65-4af7ecba803b/deploy-status)](https://app.netlify.com/sites/gustavokuze/deploys)
 
-Aqui você encontra o código do meu novo site [gustavokuze.com](https://gustavokuze.com/)
+Aqui você encontra o código do template por trás do meu novo site [gustavokuze.com](https://gustavokuze.com/)
 
 ![image](https://user-images.githubusercontent.com/25889391/95685549-ea7a8a80-0bce-11eb-9d4a-3fa47115f7eb.png)
 ____
