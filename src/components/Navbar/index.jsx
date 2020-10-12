@@ -34,7 +34,7 @@ const Navbar = () => {
         icon="code"
       >
         <Link to="/" className="font-semibold text-2xl tracking-tight pl-3">
-          Gustavo Kuze
+          React Tailwind
         </Link>
       </Icon>
 

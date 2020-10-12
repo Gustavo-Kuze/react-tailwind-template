@@ -40,7 +40,7 @@ const Home = () => {
               text-md lg:text-2xl
             `}
           >
-            Olá, eu me chamo Gustavo, sou
+            Apresente aqui sua idéia
           </h3>
           <HomeTitle
             className={`
@@ -48,7 +48,7 @@ const Home = () => {
               text-4xl lg:text-6xl
             `}
           >
-            Desenvolvedor de Software
+            Incrivelmente Sensacional
           </HomeTitle>
           <h2
             className={`
@@ -56,7 +56,7 @@ const Home = () => {
               text-lg lg:text-2xl
             `}
           >
-            e vou te ajudar a colocar o seu negócio na internet
+            e diga como ela torna o <em>mundo</em>, um lugar melhor
           </h2>
 
           <Button
@@ -145,7 +145,6 @@ const Home = () => {
       </WavySection>
       <Pricing />
       <Footer />
-
     </div>
   );
 };
