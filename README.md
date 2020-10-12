@@ -1,10 +1,10 @@
-# Tailwind/React Template
+# React/Tailwind Template
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/81727ed8-0b52-4733-8e65-4af7ecba803b/deploy-status)](https://app.netlify.com/sites/gustavokuze/deploys)
 
 Aqui você encontra o código do template por trás do meu novo site [gustavokuze.com](https://gustavokuze.com/)
 
-![image](https://user-images.githubusercontent.com/25889391/95685549-ea7a8a80-0bce-11eb-9d4a-3fa47115f7eb.png)
+![image](https://user-images.githubusercontent.com/25889391/95791729-58e74780-0cb8-11eb-97c7-a77d41d66473.png)
 ____
 
 ## Docs
@@ -89,7 +89,7 @@ Cada `work` é um objeto com as seguintes propriedades:
 - Um tema é dividido em duas partes: `classes` e `colors`. No objeto `classes` devem ser definidas as classes taildwind que serão utilizadas (E.x. "purple-500"), e em `colors` as cores hexadecimais utilizadas por `styled-components` ou estilizações puras.
 - Atualmente existem dois temas "light" e "dark" (padrão). Mas você pode adicionar mais temas facilmente respeitando as definições do arquivo `styles/theme.js`
 
-![image](https://user-images.githubusercontent.com/25889391/95685565-f9613d00-0bce-11eb-8133-c4edad5c0446.png)
+![image](https://user-images.githubusercontent.com/25889391/95791751-61d81900-0cb8-11eb-8c22-5ab2ec269ea4.png)
 
 ## Gostou do projeto?
 
