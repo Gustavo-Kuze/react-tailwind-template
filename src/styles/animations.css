@@ -1,0 +1,94 @@
+.shake-vertical {
+  animation: shake-vertical 2.8s cubic-bezier(0.455, 0.03, 0.515, 0.955)
+    infinite both;
+}
+
+/**
+ * ----------------------------------------
+ * animation shake-vertical
+ * ----------------------------------------
+ */
+@keyframes shake-vertical {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  10%,
+  30%,
+  50%,
+  70% {
+    transform: translateY(-8px);
+  }
+  20%,
+  40%,
+  60% {
+    transform: translateY(8px);
+  }
+  80% {
+    transform: translateY(6.4px);
+  }
+  90% {
+    transform: translateY(-6.4px);
+  }
+}
+
+.shake-horizontal {
+  animation: shake-horizontal 3s cubic-bezier(0.455, 0.03, 0.515, 0.955)
+     both;
+}
+
+/**
+ * ----------------------------------------
+ * animation shake-horizontal
+ * ----------------------------------------
+ */
+@keyframes shake-horizontal {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  10%,
+  30%,
+  50%,
+  70% {
+    transform: translateX(-8px);
+  }
+  20%,
+  40%,
+  60% {
+    transform: translateX(8px);
+  }
+  80% {
+    transform: translateX(6px);
+  }
+  90% {
+    transform: translateX(-6px);
+  }
+}
+
+
+.whatsapp-widget > a > img {
+  width: 50px;
+  height: 50px;
+  transition: all 230ms ease-in-out;
+}
+
+.whatsapp-widget {
+  position: fixed;
+  bottom: 16px;
+  left: 20px;
+  transition: all 230ms ease-in-out;
+  border-radius: 50%;
+}
+
+.whatsapp-widget:hover  {
+  box-shadow: 0px 0px 8px 2px rgb(204, 204, 204);
+  left: 19px;
+  bottom: 15px;
+}
+
+.whatsapp-widget:hover > a > img {
+  height: 52px;
+  width: 52px;
+}
+
